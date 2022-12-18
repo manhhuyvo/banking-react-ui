@@ -9,5 +9,5 @@ A Front End UI of Website Built with React, Tailwind CSS, HTML, CSS, JavaScript 
 5. Click on the local link to display the project on browser
 
 # Live page of the project
-Please try the live page of the project at https://exquisite-bonbon-0a32dc.netlify.app/
+Please try the live page of the project at https://manhhuyvo-bankfrontend.netlify.app/
 Thank you :)
